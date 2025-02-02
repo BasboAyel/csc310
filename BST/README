@@ -1,0 +1,12 @@
+About: BST
+Date: Oct,01,2025
+Comments: Includes four files -> bstP.cpp, bstP.h, README.txt, inst2.txt
+
+
+*** FIRST OPEN THE FOLDER WHERE THESE THREE FILES ARE LOCATED:
+    In command prompt:
+        cd folder-containing-the-files
+        code .
+*** 
+To compile: make
+To run: ./a.out inst2.txt
